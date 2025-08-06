@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="067fa253-d2de-47de-8ad9-02fd3896319a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/IBMDSProCertificate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataScienceEcosystem.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.ipynb" afterDir="false" />
+    <list default="true" id="067fa253-d2de-47de-8ad9-02fd3896319a" name="Changes" comment="Added the hands on lab from course 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS0103EN-Exercise-From-Modeling-to-Evaluation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS0103EN-Exercise-From-Understanding-to-Preparation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS0103EN-Review-From-Requirements-to-Collection-v1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScienceEcosystem.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SemouMar&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SemouMar/IBMDSProCertificate.git&quot;,
+    &quot;accountId&quot;: &quot;dec24a04-1388-4c74-beb9-f4b2b73f7183&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -72,11 +83,46 @@
       <workItem from="1753996294382" duration="685000" />
       <workItem from="1753998758155" duration="22000" />
       <workItem from="1753999954960" duration="5292000" />
-      <workItem from="1754165472394" duration="1841000" />
+      <workItem from="1754165472394" duration="6369000" />
+      <workItem from="1754345252612" duration="3545000" />
+      <workItem from="1754432750687" duration="1840000" />
     </task>
+    <task id="LOCAL-00001" summary="Added the hands on lab from course 3">
+      <option name="closed" value="true" />
+      <created>1754341952534</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754341952534</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.dot" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the hands on lab from course 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the hands on lab from course 3" />
   </component>
 </project>
